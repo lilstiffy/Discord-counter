@@ -37,8 +37,8 @@ compose.desktop {
         mainClass = "MainKt"
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "Count-Bot"
-            packageVersion = "1.0.0"
+            packageName = "Discord counter"
+            packageVersion = "1.0.2"
         }
     }
 }
