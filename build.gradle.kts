@@ -24,6 +24,8 @@ kotlin {
         val jvmMain by getting {
             dependencies {
                 implementation(compose.desktop.currentOs)
+                implementation("io.reactivex.rxjava3:rxjava:3.1.6")
+                implementation("com.sikulix:sikulixapi:2.0.4")
             }
         }
         val jvmTest by getting
