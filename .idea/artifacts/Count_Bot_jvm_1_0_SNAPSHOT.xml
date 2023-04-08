@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Count-Bot-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="Count-Bot-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="Count-Bot.jvmMain" />
+    </root>
+  </artifact>
+</component>
